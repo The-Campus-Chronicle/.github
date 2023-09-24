@@ -1,1 +1,3 @@
-# .github
+# Welcome to the Campus Chronicle
+
+UNION COUNTY VOCATIONAL-TECHNICAL SCHOOLS' STUDENT NEWSPAPER
